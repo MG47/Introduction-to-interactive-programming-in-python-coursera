@@ -1,12 +1,14 @@
-
 #"Guess the Number" game
 # Mihir Ganu
+# Date:March 10,2015
 
 
 ''' The game is simple: The first 
 player thinks of a secret number in some known
 range while the second player attempts to guess
-the number'''
+the number
+To run -> http://www.codeskulptor.org/#user39_h1KTnwrwEe_12.py
+'''
 
 
 '''
