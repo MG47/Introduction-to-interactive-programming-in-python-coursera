@@ -1,5 +1,8 @@
-# Implementation of Rock-paer-scissors-lizard-spock
 # Rock-paper-scissors-lizard-Spock
+# Mihir Ganu
+#
+
+# To run the game-> http://www.codeskulptor.org/#user39_MaaZF0oTws_0.py
 
 # The key idea of this program is to equate the strings
 # "rock", "paper", "scissors", "lizard", "Spock" to numbers
