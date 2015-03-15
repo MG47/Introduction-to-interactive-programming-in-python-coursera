@@ -2,6 +2,7 @@
 # Mihir Ganu
 # Date: March 14, 2015
 
+# TO play -> http://www.codeskulptor.org/#user39_JP84IJg6H8_8.py
 import simplegui
 import random
 
@@ -87,7 +88,6 @@ def draw(canvas):
             ball_vel[1] *= 1.1
                 
         else:
-            print "OUT11!"
             score2+=1
             spawn_ball(RIGHT)
     
@@ -97,7 +97,6 @@ def draw(canvas):
             ball_vel[1] *=1.1
     
         else:
-            print "OUT22!"
             score1+=1
             spawn_ball(LEFT)
                     
