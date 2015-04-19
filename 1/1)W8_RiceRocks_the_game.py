@@ -3,7 +3,7 @@
 # Date : Apr 18, 2015
 
 
-# To play-> http://www.codeskulptor.org/#user39_hHibZUrlaR_15.py
+# To play-> http://www.codeskulptor.org/#user39_hHibZUrlaR_16.py
 
 """
 The 2D space game RiceRocks is inspired by the classic 
